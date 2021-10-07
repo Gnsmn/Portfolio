@@ -39,3 +39,4 @@ var typed = new Typed (".typed", {
     $(document).ready(function(){
         $(".owl-carousel").owlCarousel();
     })
+    
